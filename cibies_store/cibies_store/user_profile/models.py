@@ -1,5 +1,5 @@
 from django.db import models
-from django.core.validators import MinLengthValidator
+from django.core.validators import MinLengthValidator, MinValueValidator
 from cibies_store.user_profile.validators import alphanumeric_charcters_validator, first_letter_uppercase_validator
 
 class Profile(models.Model):
@@ -45,6 +45,6 @@ class Profile(models.Model):
     age = models.IntegerField(
         null=True,
         blank=True,
-        validators=[MinLengthValidator(MIN_AGE_RESTRICTION)]
+        validators=[MinValueValidator(MIN_AGE_RESTRICTION)]
     )
     

@@ -1,4 +1,5 @@
 from django.db import models
+from cibies_store.user_profile.models import Profile
 from cibies_store.user_profile.validators import alphanumeric_charcters_validator
 from django.core.validators import MinLengthValidator
 
