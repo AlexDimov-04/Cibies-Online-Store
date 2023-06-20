@@ -1,0 +1,12 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block content %}
+  <main>
+    <!-- Home page -->
+    <section id="home">
+      <h1>Welcome to Cibies market, {{profile.first_name}}! We are happy to see you!</h1>
+      <img src="{% static 'images/cibies_logo.jpg' %}" alt="home" />
+    </section>
+  </main>
+{% endblock %}

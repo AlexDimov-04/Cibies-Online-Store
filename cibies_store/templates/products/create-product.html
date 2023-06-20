@@ -1,0 +1,17 @@
+{% extends 'base/base.html' %}
+
+{% block content %}
+<main>
+    <!-- Add Product Form -->
+    <section id="create">
+        <div class="form">
+            <h2>Add Product</h2>
+            <form class="create-form" method="POST">
+                {{form}}
+                {% csrf_token %}
+                <button type="submit">Add</button>
+            </form>
+        </div>
+    </section>
+</main>
+{% endblock %}
