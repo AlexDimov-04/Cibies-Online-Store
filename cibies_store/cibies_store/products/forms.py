@@ -30,6 +30,11 @@ class ProductCreateForm(ProductBaseForm):
                     'placeholder': 'Product Description'
                 }   
             ),
+            'price': forms.TextInput(
+                attrs={
+                    'placeholder': 'Product Price'
+                }
+            ),
             'weight': forms.TextInput(
                 attrs={
                     'placeholder': 'Product Weight'
@@ -43,6 +48,7 @@ class ProductEditForm(ProductBaseForm):
         self.fields['name'].label = "Name"
         self.fields['image_url'].label = "Image URL"
         self.fields['description'].label = "Description"
+        self.fields['price'].label = "Price"
         self.fields['weight'].label = "Weight"
 
 class ProductDeleteForm(ProductBaseForm):
