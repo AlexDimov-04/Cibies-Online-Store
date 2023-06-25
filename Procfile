@@ -1,1 +1,0 @@
-web gunicorn cibies_store.wsgi:application --log-file -
