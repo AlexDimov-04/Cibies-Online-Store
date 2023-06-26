@@ -41,7 +41,7 @@ The Online Cibies is a simple online store which includes:
 <img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/1c9ad0a2-978a-42b6-ba8d-13c3addebd5b">
 
 <h3>--Shopping cart with product Page--<h3>
-<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/08bbd7c9-bfda-4a08-9db2-60fedd6b9b42">
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/e9f640b6-caf7-40f6-8379-b7f97f3678b3">
 
 <h3>--Product details Page--<h3>
 <img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/56af0a1f-5e60-4581-a7f6-59011bff3fc1">
