@@ -28,4 +28,35 @@ The Online Cibies is a simple online store which includes:
 <h3>--Heading Page--<h3/>
 <img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/130101e3-ed3c-4940-8377-c562402e02ba">
 
+<h3>--Create Profile Page--<h3>
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/56af0a1f-5e60-4581-a7f6-59011bff3fc1">
 
+<h3>--Welcome message heading Page--<h3>
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/0f1f7c7f-9ff7-4b80-9350-1ffb1795e286">
+
+<h3>--Shopping cart Page--<h3>
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/07e9b6b8-d91c-4ff4-8aa4-3c4f51a63aae">
+
+<h3>--Add Product Page--<h3>
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/1c9ad0a2-978a-42b6-ba8d-13c3addebd5b">
+
+<h3>--Shopping cart with product Page--<h3>
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/08bbd7c9-bfda-4a08-9db2-60fedd6b9b42">
+
+<h3>--Product details Page--<h3>
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/56af0a1f-5e60-4581-a7f6-59011bff3fc1">
+
+<h3>--Edit product Page--<h3>
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/56af0a1f-5e60-4581-a7f6-59011bff3fc1">
+
+<h3>--Delete product Page--<h3>
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/56af0a1f-5e60-4581-a7f6-59011bff3fc1">
+
+<h3>--Profile details Page--<h3>
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/56af0a1f-5e60-4581-a7f6-59011bff3fc1">
+
+<h3>--Edit profile Page--<h3>
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/56af0a1f-5e60-4581-a7f6-59011bff3fc1">
+
+<h3>--Delete Profile Page--<h3>
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/56af0a1f-5e60-4581-a7f6-59011bff3fc1">
