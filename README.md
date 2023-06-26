@@ -25,5 +25,7 @@ The Online Cibies is a simple online store which includes:
 ---
 
 ## Images look-through
-![image](https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/130101e3-ed3c-4940-8377-c562402e02ba)
+<h3>--Heading Page--<h3/>
+<img src="https://github.com/AlexDimov-04/Cibies-Online-Store/assets/106152399/130101e3-ed3c-4940-8377-c562402e02ba" width="50%">
+
 
